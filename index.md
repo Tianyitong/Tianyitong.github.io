@@ -1,11 +1,13 @@
 ## Welcome to My Personal Website
 
-You can click this [link](assets/cv) to view my cv.
+You can click this [link](assets/cv.docx) to view my cv.
 
 
 ### Projects:
-- [Data Mining for Airbnb Project](assets/data_mining_for_Airbnb_through_R)
-- [Innovative Marketing Techniques Project](assets/innovative_marketing_techniques_project)
+- [Data Mining for Airbnb Project](assets/data_mining_for_Airbnb_through_R.pdf)
+- [Innovative Marketing Techniques Project](assets/innovative_marketing_techniques_project.pdf)
 - [Business Plan for YOX](assets/business_plan_for_YOX.pdf)
-- [Project Management for Career Fair](assets/project_management_project )
+- [Project Management for Career Fair](assets/project_management_project.docx)
 - [Business Plan for Dream Factory](assets/ddream_factory_business_plan.pdf)
+- [Marketing Plan for WeWork](assets/marketing_plan_for_wework.docx)
+- [Marketing Plan for Uber](assets/marketing_plan_for_Uber.docx)
