@@ -1,6 +1,6 @@
 ## Welcome to My Personal Website
 
-You can click this [link](assets/cv.docx) to view my cv.
+You can click this [link](assets/cv.pdf) to view my cv.
 
 
 ### Projects:
@@ -9,5 +9,5 @@ You can click this [link](assets/cv.docx) to view my cv.
 - [Business Plan for YOX](assets/business_plan_for_YOX.pdf)
 - [Project Management for Career Fair](assets/project_management_project.docx)
 - [Business Plan for Dream Factory](assets/ddream_factory_business_plan.pdf)
-- [Marketing Plan for WeWork](assets/marketing_plan_for_wework.docx)
+- [Marketing Plan for WeWork](assets/marketing_plan_for_wework.pdf)
 - [Marketing Plan for Uber](assets/marketing_plan_for_Uber.docx)
